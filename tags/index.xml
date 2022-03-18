@@ -7,41 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 by Bhomik Rudani</copyright><atom:link href="https://bh0mik.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Data Visualization</title>
-      <link>https://bh0mik.github.io/tags/data-visualization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bh0mik.github.io/tags/data-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DataScience</title>
-      <link>https://bh0mik.github.io/tags/datascience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bh0mik.github.io/tags/datascience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mchine Learning</title>
-      <link>https://bh0mik.github.io/tags/mchine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bh0mik.github.io/tags/mchine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://bh0mik.github.io/tags/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bh0mik.github.io/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
